@@ -96,7 +96,7 @@
             "component": "select",
             "name": "sec-spacing-bottom",
             "value": "",
-            "label": "Spacing Bottom (padding bottom)",
+            "label": "Spacing Bottom (padding bottom.)",
             "description": "Section bottom spacing, default is 32px.",
             "valueType": "string",
             "options": [
