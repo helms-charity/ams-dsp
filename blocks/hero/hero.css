@@ -70,6 +70,26 @@
   background: var(--color-gradient-primary);
 }
 
+.hero.block>div:nth-of-type(2)>div.white {
+  background: var(--clr-white);
+}
+
+.hero.block>div:nth-of-type(2)>div.primary-color {
+  background: var(--color-brand-primary);
+}
+
+.hero.block>div:nth-of-type(2)>div.secondary-color {
+  background: var(--color-brand-secondary);
+}
+
+.hero.block>div:nth-of-type(2)>div.gradient-primary {
+  background: var(--color-gradient-primary);
+}
+
+.hero.block>div:nth-of-type(2)>div.gradient-secondary {
+  background: var(--color-gradient-secondary);
+}
+
 @media (width >= 601px) {
   .hero.block>div:nth-of-type(2)>div {
     width: 500px;

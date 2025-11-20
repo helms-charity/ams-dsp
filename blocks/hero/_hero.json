@@ -42,6 +42,35 @@
           "valueType": "string"
         },
         {
+          "component": "text",
+          "name": "classes",
+          "label": "Background color style",
+          "value": "",  
+          "valueType": "string",
+          "options": [
+            {
+              "name": "White",
+              "value": "white"
+            },
+            {
+              "name": "Primary color",
+              "value": "primary-color"
+            },
+            {
+              "name": "Secondary color",
+              "value": "secondary-color"
+            },
+            {
+              "name": "Gradient Primary",
+              "value": "gradient-primary"
+            },
+            {
+              "name": "Gradient Secondary",
+              "value": "gradient-secondary"
+            }
+          ]
+        },
+        {
           "component": "aem-content",
           "name": "reference",
           "value": "",
