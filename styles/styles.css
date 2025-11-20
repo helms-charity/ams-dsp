@@ -230,14 +230,14 @@ h1 {
   line-height: 2.5rem;
   text-align: center;
   letter-spacing: -1px;
-  color: var(--clr-durysta-yellow);
+  color: var(--color-brand-secondary);
   text-shadow: 5px 5px 4px rgb(0 0 0 / 10%);
   margin-bottom: 15px;
 }
 
 h2 {
   font-size: var(--heading-font-size-xl);
-  color: var(--clr-durysta-yellow);
+  color: var(--color-brand-secondary);
   font-weight: 600;
   line-height: 2rem; /* 32px */
   text-align: center;
@@ -247,7 +247,7 @@ h3 {
   font-size: var(--heading-font-size-l);
   font-weight: 700;
   line-height: 2.4375rem; /* 39px */
-  color: var(--clr-durysta-green);
+  color: var(--color-brand-primary);
   text-shadow: 5px 5px 4px rgb(0 0 0 / 6%);
 }
 
@@ -255,7 +255,7 @@ h4 {
   font-size: var(--heading-font-size-s);
   line-height: 2.0625rem; /* 33px */
   font-weight: 700;
-  color: var(--clr-durysta-green);
+  color: var(--color-brand-primary);
 }
 
 h5 {
