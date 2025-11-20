@@ -42,7 +42,7 @@
           "valueType": "string"
         },
         {
-          "component": "text",
+          "component": "multiselect",
           "name": "classes",
           "label": "Background color style",
           "value": "",  
